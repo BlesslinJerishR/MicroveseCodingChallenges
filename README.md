@@ -1,5 +1,5 @@
 ## Microvese Coding Challenges
-- Collection of 14 Microverse Coding Challenges in JavaScript .
+- Collection of 14 Microverse Coding Challenges in JavaScript from hackerrank.
 
 ### Poblem Solving > Algorithms
 ## Javascript
